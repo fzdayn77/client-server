@@ -48,7 +48,7 @@ $ sudo zypper --non-interactive install java-19-openjdk
 
 ## First steps
 
-In order to use this project the right way and see how izt functions, you need to follow the following steps :
+In order to use this project the right way and see how it functions, you need to follow the following steps :
 
 1. Connect to the local server using port-number **2022** (  other port-numbers won´t be accepted  )
 
