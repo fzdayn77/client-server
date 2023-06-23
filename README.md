@@ -6,7 +6,7 @@
 
 With this project you can interact with a **local server** on your PC that receives a command from the **client** and gives back some informations or results.
 
-You can run the code using an **IDE** (for example:  [_IntelliJ IDEA_](https://www.jetbrains.com/idea/) from JetBrains ). If you want to use the **terminal** (  for **GNU/Linux** or **MacOS**  ) or the command prompt (  for **Windows**  ), you have to install the _**JRE 19**_.
+You can run the code using an **IDE** (for example:  [_IntelliJ IDEA_](https://www.jetbrains.com/idea/) from JetBrains ). If you want to use the **terminal** (  for **GNU/Linux** or **MacOS**  ) or the command prompt (  for **Windows**  ), you have to install the _**JRE 19**_ on your machine.
 
 
 ### Java version
@@ -46,7 +46,7 @@ $ sudo dnf install -y java-19-openjdk
 $ sudo zypper --non-interactive install java-19-openjdk
 ```
 
-## First steps
+## Usage
 
 In order to use this project the right way and see how it functions, you need to follow the following steps :
 
